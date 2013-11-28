@@ -1,6 +1,8 @@
 ## apostle
 #### Node.js API client for Apostle.io
 
+[![Build Status](https://travis-ci.org/thisandagain/apostle.png)](https://travis-ci.org/thisandagain/apostle)
+
 ### Installation
 ```bash
 npm install apostle
