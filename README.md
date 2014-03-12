@@ -1,3 +1,7 @@
+## Deprecated. See: https://github.com/apostle/apostle.js
+
+---
+
 ## apostle
 #### Node.js API client for Apostle.io
 
