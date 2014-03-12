@@ -1,4 +1,4 @@
-## Deprecated. See: https://github.com/apostle/apostle.js
+#### Deprecated. See: https://github.com/apostle/apostle.js
 
 ---
 
